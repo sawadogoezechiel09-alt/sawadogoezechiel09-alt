@@ -2,7 +2,7 @@
 
 Master’s student in Language and Computer Science at Sorbonne University.
 
-My work focuses on the intersection of language, computation, and interpretation, with interests in:
+My academic work focuses on the intersection of language, computation, and interpretation, with a particular interest in:
 
 - Natural Language Processing
 - OCR and document analysis
@@ -13,18 +13,24 @@ My work focuses on the intersection of language, computation, and interpretation
 ## Selected Projects
 
 - [ocr-corpus-analysis](https://github.com/sawadogoezechiel09-alt/ocr-corpus-analysis)  
-  OCR evaluation and corpus analysis project developed for NLP coursework.
+  OCR evaluation and corpus analysis project developed for NLP coursework at Sorbonne University.
 
 - [byzantine-seal-recognition](https://github.com/sawadogoezechiel09-alt/byzantine-seal-recognition)  
   Deep learning project on Greek character recognition from Byzantine seals.
 
 - [earthquake-research-presentation](https://github.com/sawadogoezechiel09-alt/earthquake-research-presentation)  
-  Research project using exploratory and multimodal analysis for natural disaster classification.
+  Research project combining exploratory analysis and multimodal methods for natural disaster classification.
 
 - [car-price-prediction](https://github.com/sawadogoezechiel09-alt/car-price-prediction)  
-  Data analysis and machine learning project on vehicle specifications and price prediction.
+  Machine learning and statistical analysis project for car price prediction using vehicle specifications.
+
+- [insta-manager](https://github.com/sawadogoezechiel09-alt/insta-manager)  
+  Python-based content planning tool with scheduling, hashtag generation, CTA suggestions, and CSV export.
 
 ## Current Direction
 
-I am especially interested in projects that connect computational methods with language, texts, and cultural analysis.
+I am especially interested in projects that connect computational methods with texts, discourse, visual documents, and cultural analysis.
 
+## Profile
+
+This GitHub gathers coursework, research-oriented experiments, and applied projects in NLP, OCR, machine learning, and data analysis.
